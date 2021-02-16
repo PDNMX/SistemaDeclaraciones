@@ -6,7 +6,6 @@ Sistema informático diseñado por la Secretaría Ejecutiva del Sistema Nacional
 
 ## Descarga
 
-
 | Componente | Descripción | URL |
 | ---- | ---- | ---- |
 | Front End  |             |    |
