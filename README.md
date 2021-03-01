@@ -15,3 +15,7 @@ se describen en la siguiente tabla.
 
 ## Manuales del Sistema
 
+| Manual | Descripción | URl |
+| ----------------- | ----------- | ----|
+| Manual de usuario | Manual para usuarios del Sistema de Declaraciones (declarantes y usuarios administrativos). | [Manual]()|
+| Manual de instalación y puesta en marcha | Manual orientado al personal encargado de la instalación y soporte técnico del Sistema de Declaraciones. | [Manual]()|
