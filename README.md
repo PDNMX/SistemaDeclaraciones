@@ -2,6 +2,15 @@
 
 Sistema informático diseñado por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, con el objetivo de permitir la captura de declaraciones patrimoniales y de intereses por parte de los Servidores Públicos de acuerdo con los formatos aprobados por el Comité Coordinador del SNA.
 
+# Alcances y limitaciones
+
+El Sistema de Declaraciones es una herramienta que permite a los servidores públicos presentar su declaración patrimonial y de intereses cumpliendo con el Formato aprobado por el Comité Coordinador del Sistema Nacional Anticorrupción, resguardando la información en modelos de datos compatibles con los estándares de datos de la Plataforma Digital Nacional.
+
+No obstante, los entes públicos que hagan uso del Sistema de Declaraciones deberán encargarse de la incorporación de las declaraciones a la Plataforma Digital Nacional, conforme a normatividad aplicable y de acuerdo con los protocolos para el Sistema 1 de la PDN, disponibles en la siguiente dirección web:
+
+- https://plataformadigitalnacional.org/declaraciones/especificaciones
+
+
 ## Descarga
 El software necesario para instalar y desplegar el Sistema de Declaraciones
 se encuentra disponible a través de tres repositorios de código que
