@@ -31,4 +31,4 @@ se describen en la siguiente tabla.
 
 ## 	✉️ Dudas y comentarios 
 Envíanos un correo a la siguiente dirección:
-- [pdn@sesna.gob.mx](mailto:pdn@sesna.gob.mx?subject="Sistema de declaraciones") 
+- [pdn@sesna.gob.mx](mailto:pdn@sesna.gob.mx) 
