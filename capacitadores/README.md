@@ -14,7 +14,7 @@ sudo systemctl status docker
 sudo systemctl enable docker
 sudo usermod -aG docker ${USER}
 su - ${USER}
-id -nGe
+id -nG
   ```
 </details>
 
