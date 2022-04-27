@@ -8,7 +8,7 @@ El Sistema de Declaraciones es una herramienta que permite a los órganos públi
 
 No obstante, los entes públicos que hagan uso del Sistema de Declaraciones deberán contar con la infraestructura necesaria para albergar al sistema, así como encargarse de la incorporación de las declaraciones a la Plataforma Digital Nacional, conforme a normatividad aplicable y de acuerdo con los protocolos para el Sistema 1 de la PDN, disponibles en la siguiente dirección web:
 
-- https://plataformadigitalnacional.org/declaraciones/especificaciones
+- https://www.plataformadigitalnacional.org/especificaciones/s1
 
 ## ⚠️ Precauciones 
 Nunca exponga los puertos de los componentes internos del Sistema de declaraciones a Internet. Los módulos internos del Sistema de Declaraciones como elasticsearch y el módulo de reportes, pueden ser propensos a sufrir ataques informáticos si se exponen abiertamente en Internet.
