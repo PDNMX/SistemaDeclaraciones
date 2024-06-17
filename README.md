@@ -33,7 +33,7 @@ se describen en la siguiente tabla.
 | Manual            | Descripción | Recurso |
 | ----------------- | ----------- | --------|
 | Manual de usuario | Manual para usuarios del Sistema de Declaraciones (declarantes y usuarios administrativos). | [Manual](manuales/manual_usuario.pdf)|
-| Manual de instalación | Manual orientado al personal encargado de la instalación y soporte técnico del Sistema de Declaraciones. | [Manual](manuales/manual_instalacion.pdf)|
+| Manual de instalación | Manual orientado al personal encargado de la instalación y soporte técnico del Sistema de Declaraciones. | [Manual](https://docs.google.com/document/d/1HAOwKuZcrTzISx5BKaFIzJQ__-puTPbiLRmR9XACZow/edit?usp=sharing)|
 
 ## 	✉️ Dudas y comentarios 
 Si tienes dudas sobre la instalación del Sistema de Declaración Patrimonial y de Intereses de la PDN comunicate con alguno de los miembros de la [Red Nacional de Capacitadores (RNC)](https://docs.google.com/spreadsheets/d/16pmdC_gxw3-4SJpqoPpQUV4U0J_X-GADMFeG554xbGU).
